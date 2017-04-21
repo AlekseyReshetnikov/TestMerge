@@ -17,6 +17,12 @@ Translations:
     - [Polish](https://github.com/jwasham/coding-interview-university/issues/122)
     - [German](https://github.com/jwasham/coding-interview-university/issues/135)
     - [Urdu](https://github.com/jwasham/coding-interview-university/issues/140)
+
+фывафыва
+
+фывафыва
+фываыфва
+фываыфва
     - [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
     - [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
     - [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
@@ -107,6 +113,16 @@ If you want to be a reliability engineer or systems engineer, study more from th
 
 - [Additional Books](#additional-books)
 - [Additional Learning](#additional-learning)
+фыва
+
+фываыфв
+а
+ыф
+ваыфва
+
+фыва
+ы
+вфа
     - [Compilers](#compilers)
     - [Emacs and vi(m)](#emacs-and-vim)
     - [Unix command line tools](#unix-command-line-tools)
