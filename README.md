@@ -146,11 +146,6 @@ If you want to be a reliability engineer or systems engineer, study more from th
     - [Balanced search trees](#balanced-search-trees)
         - AVL trees
         - Splay trees
-        - Red/black trees
-        - 2-3 search trees
-        - 2-3-4 Trees (aka 2-4 trees)
-        - N-ary (K-ary, M-ary) trees
-        - B-Trees
     - [k-D Trees](#k-d-trees)
     - [Skip lists](#skip-lists)
     - [Network Flows](#network-flows)
@@ -195,12 +190,8 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
     Mark all boxes with X after you completed your changes
 
-`git add . `
-
-`git commit -m "Marked x" `
-
-`git rebase jwasham/master `
-
+341243
+-----------
 `git push --force `
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
