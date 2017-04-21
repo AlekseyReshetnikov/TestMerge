@@ -1,4 +1,4 @@
-# Coding Interview University
+﻿# Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer, 
 > but it grew to the large list you see today. After going through this study plan, [I got hired 
@@ -11,24 +11,18 @@
 > *Best of luck to you!*
 
 Translations:
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vn.md)
-- translations in progress:
-    - [Español](https://github.com/jwasham/coding-interview-university/issues/80)
-    - [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-    - [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-    - [Bahasa Indonesia](https://github.com/jwasham/coding-interview-university/issues/101)
-    - [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-    - [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
-    - [French](https://github.com/jwasham/coding-interview-university/issues/89)
-    - [Russian](https://github.com/jwasham/coding-interview-university/issues/87)
-    - [Ukrainian](https://github.com/jwasham/coding-interview-university/issues/106)
     - [Brazilian Portuguese](https://github.com/jwasham/coding-interview-university/issues/113)
     - [Korean](https://github.com/jwasham/coding-interview-university/issues/118)
     - [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
     - [Polish](https://github.com/jwasham/coding-interview-university/issues/122)
     - [German](https://github.com/jwasham/coding-interview-university/issues/135)
     - [Urdu](https://github.com/jwasham/coding-interview-university/issues/140)
+
+фывафыва
+
+фывафыва
+фываыфва
+фываыфва
     - [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
     - [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
     - [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
@@ -68,12 +62,6 @@ If you want to be a reliability engineer or systems engineer, study more from th
 - [Data Structures](#data-structures)
     - [Arrays](#arrays)
     - [Linked Lists](#linked-lists)
-    - [Stack](#stack)
-    - [Queue](#queue)
-    - [Hash table](#hash-table)
-- [More Knowledge](#more-knowledge)
-    - [Binary search](#binary-search)
-    - [Bitwise operations](#bitwise-operations)
 - [Trees](#trees)
     - [Trees - Notes & Background](#trees---notes--background)
     - [Binary search trees: BSTs](#binary-search-trees-bsts)
@@ -125,6 +113,16 @@ If you want to be a reliability engineer or systems engineer, study more from th
 
 - [Additional Books](#additional-books)
 - [Additional Learning](#additional-learning)
+фыва
+
+фываыфв
+а
+ыф
+ваыфва
+
+фыва
+ы
+вфа
     - [Compilers](#compilers)
     - [Emacs and vi(m)](#emacs-and-vim)
     - [Unix command line tools](#unix-command-line-tools)
@@ -148,11 +146,6 @@ If you want to be a reliability engineer or systems engineer, study more from th
     - [Balanced search trees](#balanced-search-trees)
         - AVL trees
         - Splay trees
-        - Red/black trees
-        - 2-3 search trees
-        - 2-3-4 Trees (aka 2-4 trees)
-        - N-ary (K-ary, M-ary) trees
-        - B-Trees
     - [k-D Trees](#k-d-trees)
     - [Skip lists](#skip-lists)
     - [Network Flows](#network-flows)
@@ -162,8 +155,6 @@ If you want to be a reliability engineer or systems engineer, study more from th
     - [Linear Programming](#linear-programming)
     - [Geometry, Convex hull](#geometry-convex-hull)
     - [Discrete math](#discrete-math)
-    - [Machine Learning](#machine-learning)
-- [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
 - [Video Series](#video-series)
 - [Computer Science Courses](#computer-science-courses)
 
@@ -199,12 +190,8 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
     Mark all boxes with X after you completed your changes
 
-`git add . `
-
-`git commit -m "Marked x" `
-
-`git rebase jwasham/master `
-
+341243
+-----------
 `git push --force `
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
@@ -252,14 +239,6 @@ You can use a language you are comfortable in to do the coding part of the inter
 You could also use these, but read around first. There may be caveats:
 
 - JavaScript
-- Ruby
-
-You need to be very comfortable in the language and be knowledgeable.
-
-Read more about choices:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
-
 [See language resources here](programming-language-resources.md)
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
